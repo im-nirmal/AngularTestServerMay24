@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Tim Cook",
+      "email": "timcook@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "2",
+      "name": "Cooper",
+      "email": "cooper@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "3",
+      "name": "Carl Pei",
+      "email": "carl@gmail.com",
+      "status": "0"
+    }
+  ]
+}
